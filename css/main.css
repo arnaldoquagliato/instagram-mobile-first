@@ -27,7 +27,8 @@ body{
 
 .container-header{
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: space-between;
+	margin: 0px 13%;
 	padding-top: 10px;
 }
 
